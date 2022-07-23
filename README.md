@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img alt="" src=".github/logo-plane.svg" width="10%">
+  <img alt="" src=".github/preview.png" width="10%">
 </p>
 
 <br>
@@ -41,9 +41,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Live Preview: https://barbearia-alura-bay.vercel.app/
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
