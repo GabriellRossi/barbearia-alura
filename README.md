@@ -20,9 +20,6 @@
   <img src="https://img.shields.io/github/stars/GabriellRossi/barbearia-alura?label=stars&message=MIT&color=5822b4&labelColor=991eeb " alt="Stars">
 </p>
 
-<p align="center">
-  <img alt="" src=".github/preview.png" width="10%">
-</p>
 
 <br>
 
